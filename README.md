@@ -17,7 +17,9 @@ change value of the "int score = 0" to be what you like.
 
 To modify the multiple of rewards and punishment go to "model/playing"
 Which you wanna modify the multiple following:
-	static const int MATCH_BONUS = 4;//Rewards multiple
-	static const int MISMATCH_PENALTY = 2;//punish multiple
-	static const int COST_TO_CHOOSE = 1;//points cost to turn over one card
+> static const int MATCH_BONUS = 4;//Rewards multiple
+> 
+> static const int MISMATCH_PENALTY = 2;//punish multiple
+> 
+> static const int COST_TO_CHOOSE = 1;//points cost to turn over one card
 
